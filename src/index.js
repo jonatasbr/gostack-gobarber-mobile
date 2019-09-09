@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Teste from '~/Teste';
+import Routes from './routes';
 
 function App() {
-  return <Teste />;
+  return <Routes />;
 }
 
 export default App;
