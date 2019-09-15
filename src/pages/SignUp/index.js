@@ -16,7 +16,7 @@ import {
   SignLinkText,
 } from './styles';
 
-export default function SignIn({ navigation }) {
+export default function SignUp({ navigation }) {
   const dispatch = useDispatch();
 
   const emailRef = useRef();
